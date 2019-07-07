@@ -51,6 +51,13 @@ The server run on Amazon EC2 Instance with image of "Ubuntu, 18.04 LTS"
 * Cloning my Catalog App repository
 * Create WSGI file and use it in apache configuration file
 
+## Resources
+
+* Linux server Configurations - [Udacity Lesson "Linux Security"](https://classroom.udacity.com/nanodegrees/nd004/parts/b2de4bd4-ef07-45b1-9f49-0e51e8f1336e/modules/56cf3482-b006-455c-8acd-26b37b6458d2/lessons/4331066009/concepts/48010894470923)
+* Basic setup Apache server with mod_wsgi - [Udacity Lesson "Web Application Servers"](https://classroom.udacity.com/nanodegrees/nd004/parts/b2de4bd4-ef07-45b1-9f49-0e51e8f1336e/modules/56cf3482-b006-455c-8acd-26b37b6458d2/lessons/4340119836/concepts/48065785530923)
+* PostgreSQL - [How to install and connecting](https://www.godaddy.com/garage/how-to-install-postgresql-on-ubuntu-14-04)
+* Basic WSGI app - [Python Flask Hello-World App with Apache WSGI](https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php)
+
 ## Authors
 
 * **Kfir Klichevski** - *Initial work* - [kklichevski](https://github.com/kklichevski/)
